@@ -1,0 +1,9 @@
+allure-pytest==2.13.0
+allure-python-commons==2.13.0
+attrs==22.2.0
+pluggy==1.0.0
+pytest
+PyYAML==6.0
+selenium==3.141.0
+urllib3==1.26.15
+requests
