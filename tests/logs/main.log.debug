@@ -1,0 +1,22 @@
+2023-04-26 22:04:37,085 - INFO:conftest.py:26 - Calling "version_reporter" fixture
+2023-04-26 22:04:37,085 - INFO:conftest.py:31 - Calling "setup" fixture
+2023-04-26 22:04:37,085 - INFO:conftest.py:32 - Using "prod" environment
+2023-04-26 22:04:37,086 - INFO:config.py:23 - Test config loaded
+2023-04-26 22:04:37,086 - DEBUG:config.py:24 - {'prod': {'name': 'prod', 'web_url': 'https://demoqa.com/'}}
+2023-04-26 22:04:37,087 - STEP:logger.py:17 - ~~~~~START test_test~~~~~
+2023-04-26 22:04:37,088 - INFO:logger.py:22 - Running test case with TestRail number: TESTCASE-ID-1
+2023-04-26 22:04:37,088 - INFO:options.py:18 - Set Chrome options: --incognito
+2023-04-26 22:05:10,483 - STEP:logger.py:17 - Portal: Open Elements page
+2023-04-26 22:05:10,484 - DEBUG:base.py:42 - Start waiting presence of element "('xpath', '//div[child::div[@class="card-body" and child::*[text()="Elements"]]]')"
+2023-04-26 22:05:10,495 - DEBUG:base.py:53 - Finished waiting presence of element "('xpath', '//div[child::div[@class="card-body" and child::*[text()="Elements"]]]')"
+2023-04-26 22:05:10,581 - DEBUG:base.py:42 - Start waiting presence of element "('xpath', '//div[@class="left-pannel"]//span[text()="Check Box"]')"
+2023-04-26 22:05:10,591 - DEBUG:base.py:53 - Finished waiting presence of element "('xpath', '//div[@class="left-pannel"]//span[text()="Check Box"]')"
+2023-04-26 22:05:10,660 - DEBUG:base.py:42 - Start waiting presence of element "('xpath', '//span[descendant::*[text()="Home"]]/button')"
+2023-04-26 22:05:10,670 - DEBUG:base.py:53 - Finished waiting presence of element "('xpath', '//span[descendant::*[text()="Home"]]/button')"
+2023-04-26 22:05:10,708 - DEBUG:base.py:42 - Start waiting presence of element "('xpath', '//span[descendant::*[text()="Downloads"]]/button')"
+2023-04-26 22:05:10,717 - DEBUG:base.py:53 - Finished waiting presence of element "('xpath', '//span[descendant::*[text()="Downloads"]]/button')"
+2023-04-26 22:05:10,753 - DEBUG:base.py:42 - Start waiting presence of element "('xpath', '//label[descendant::*[text()="Word File.doc"]]/span[@class="rct-checkbox"]')"
+2023-04-26 22:05:10,762 - DEBUG:base.py:53 - Finished waiting presence of element "('xpath', '//label[descendant::*[text()="Word File.doc"]]/span[@class="rct-checkbox"]')"
+2023-04-26 22:05:10,800 - DEBUG:base.py:42 - Start waiting presence of element "('xpath', '//div[@id="result"]')"
+2023-04-26 22:05:10,809 - DEBUG:base.py:53 - Finished waiting presence of element "('xpath', '//div[@id="result"]')"
+2023-04-26 22:05:10,914 - STEP:logger.py:17 - ~~~~~END test_test~~~~~

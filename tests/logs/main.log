@@ -1,0 +1,9 @@
+2023-04-26 22:04:37,085 - INFO:conftest.py:26 - Calling "version_reporter" fixture
+2023-04-26 22:04:37,085 - INFO:conftest.py:31 - Calling "setup" fixture
+2023-04-26 22:04:37,085 - INFO:conftest.py:32 - Using "prod" environment
+2023-04-26 22:04:37,086 - INFO:config.py:23 - Test config loaded
+2023-04-26 22:04:37,087 - STEP:logger.py:17 - ~~~~~START test_test~~~~~
+2023-04-26 22:04:37,088 - INFO:logger.py:22 - Running test case with TestRail number: TESTCASE-ID-1
+2023-04-26 22:04:37,088 - INFO:options.py:18 - Set Chrome options: --incognito
+2023-04-26 22:05:10,483 - STEP:logger.py:17 - Portal: Open Elements page
+2023-04-26 22:05:10,914 - STEP:logger.py:17 - ~~~~~END test_test~~~~~
